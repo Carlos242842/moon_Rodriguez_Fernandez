@@ -21,7 +21,6 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     margin: 0;
-    height: 100vh;
     display: flex;
     justify-content: center;
 }
@@ -65,4 +64,85 @@ body{
 .Text-Footer{
     margin-top: 250px;
     background-color: #bc6c25;
+}
+
+.moon1{
+    margin-left: 35px;
+    background-size: cover;
+    margin-right: 20px;
+    width: 500px;
+    height: 400px;
+    background-image: url(../img/moon1.jpg);
+    background-repeat: no-repeat;
+}
+
+.moon2{
+    background-size: cover;
+    margin-right: 20px;
+    width: 500px;
+    height: 400px;
+    background-image: url(../img/moon2.jpg);
+    background-repeat: no-repeat;
+}
+
+.moon3{
+    background-size: cover;
+    width: 500px;
+    height: 400px;
+    background-image: url(../img/moon3.jpg);
+    background-repeat: no-repeat;
+}
+
+.moon4{
+    margin-left: 35px;
+    margin-right: 20px;
+    background-size: cover;
+    width: 500px;
+    height: 400px;
+    background-image: url(../img/moon4.jpg);
+    background-repeat: no-repeat;
+}
+
+.moon5{
+    margin-right: 20px;
+    background-size: cover;
+    width: 500px;
+    height: 400px;
+    background-image: url(../img/moon5.jpg);
+    background-repeat: no-repeat;
+}
+
+.moon6{
+    background-size: cover;
+    width: 500px;
+    height: 400px;
+    background-image: url(../img/moon6.jpg);
+    background-repeat: no-repeat;
+}
+
+.moon7{
+    margin-left: 35px;
+    margin-right: 20px;
+    background-size: cover;
+    width: 500px;
+    height: 400px;
+    background-image: url(../img/moon7.jpg);
+    background-repeat: no-repeat;
+}
+
+.moon8{
+    margin-right: 20px;
+    background-size: cover;
+    width: 500px;
+    height: 400px;
+    background-image: url(../img/moon8.jpg);
+    background-repeat: no-repeat;
+}
+
+.moon9{
+    background-size: cover;
+    width: 500px;
+    height: 400px;
+    background-image: url(../img/moon9.jpg);
+    background-repeat: no-repeat;
 }
