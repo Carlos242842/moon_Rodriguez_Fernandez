@@ -1,15 +1,68 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,400;0,900;1,100;1,400;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500&display=swap');
 
 .custom-navbar{
+    display: flex;
     background-color: #d4a373;
     height: 100px;
 }
 
 .custom-navbar{
+    display: flex;
     font-size: 20px;
 }
 
 a:hover{
     background-color: #bc6c25;
     height: 50px;
+}
+
+body{
+    background-image: url(../img/moon.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.Square{
+    display: flex;
+    width: 750px;
+    height: 150px;
+    background-color: #bc6c25;
+    border: 5px solid #d4a373;
+    justify-content: center;
+    background:rgba(231, 172, 45, 0.45); 
+    border-radius: 10px;
+    margin-left: 600px;
+    margin-top: 250px;
+}
+
+.Text-Square{
+    display: flex;
+    width: 350px;
+    font-family: Roboto;
+    color: black;
+    height: 38px;
+}
+
+.Text2-Square{
+    display: flex;
+    width: 350px;
+    font-family: Roboto;
+    font-size: 25px;
+    color: #000;
+}
+
+.button{
+    display: flex;
+    background-color: #bc6c25;
+    color: white;
+    border-radius: 10px;
+}
+
+.Text-Footer{
+    margin-top: 250px;
+    background-color: #bc6c25;
 }
